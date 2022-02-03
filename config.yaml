@@ -1,0 +1,11 @@
+baseURL: http://greatcompany-toha.wundercomm.com/
+languageCode: es-co
+title: Greate Company WunderComm
+
+enableEmoji: true
+
+params:
+  enableBlogPost: true
+  enableTOC: true
+  credentialsEnabled: false
+  background: "images/bg.png"

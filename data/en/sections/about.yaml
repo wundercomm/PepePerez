@@ -1,0 +1,49 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Asessores de Seguros
+# your company information
+company:
+  name: Sura
+  url: "https://www.segurossura.com.co/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Estamos para asesorarte y asegurarnos que cada solución se ajuste a tus necesidades.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/wundercomm"
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/WunderCommIO"
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/wundercomm"
+- name: Whatsapp
+  icon: "fab fa-whatsapp"
+  url: "https://wa.me/+573336025143"
+
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Seguros de bicicletas
+  percentage: 85
+  color: blue
+- name: Asessoramiento en linea
+  percentage: 90
+  color: yellow
